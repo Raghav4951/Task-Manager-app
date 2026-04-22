@@ -2,10 +2,8 @@
 
 ## 🔗 Live Demo
 
-Frontend: https://your-app.vercel.app
-Backend: https://your-api.onrender.com
-API Docs: https://your-api.onrender.com/api-docs
-
+Frontend: [https://your-app.vercel.app](https://task-manager-app-gamma-hazel.vercel.app/)
+Backend: [https://your-api.onrender.com](https://task-manager-app-2-ui1i.onrender.com)
 ---
 
 ## 📌 Overview
